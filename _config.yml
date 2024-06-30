@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jie-Yang @ UVA
-email: jieyang@uva.edu
+email: jieyang @ uva.edu
 description: PLEASE PUT YOUR DISCRIPTION HERE
 twitter_username: username
 github_username: username
