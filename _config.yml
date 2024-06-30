@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Manglik lab @ UCSF
-email: aashish.manglik@ucsf.edu
-description: Researching the molecular basis of transmembrane signaling and transport
+title: Jie-Yang @ UVA
+email: jieyang@uva.edu
+description: PLEASE PUT YOUR DISCRIPTION HERE
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
