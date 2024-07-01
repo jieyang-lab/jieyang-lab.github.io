@@ -1,12 +1,11 @@
 ---
 permalink: /about/
-title: "About"
+title: "CONTACT"
 ---
 
-Department of Pharmaceutical Chemistry\
-Department of Anesthesia\
-1700 4th Street, Byers Hall B508C\
-UCSF Box 2550\
-San Francisco, CA 94143
+Department of Biochemistry and Molecular Genetics, UVA\
+Pinn Hall, Floor 06 #6047\
+1340 Jefferson Park Ave\
+Charlottesville, VA 22903
 
-​Phone: [415-502-3744](tel:+1-415-502-3744)
+​Phone: [216-302-9192](tel:+1-216-302-9192)
