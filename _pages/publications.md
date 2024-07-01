@@ -26,4 +26,5 @@ PDB{%if length > 1%}s{%endif%}: {% for pdb in article.pdbs %} [{{pdb}}](https://
 
 # All articles and reviews
 
-[Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=aashish+manglik)
+# [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=aashish+manglik) 
+[GoogleScholar](https://scholar.google.com/citations?user=BldDEr0AAAAJ&hl=en)
