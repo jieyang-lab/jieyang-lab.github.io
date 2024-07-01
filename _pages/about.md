@@ -2,7 +2,7 @@
 permalink: /about/
 title: "CONTACT INFO"
 ---
-Yang Lab
+Yang Lab\
 Pinn Hall, Floor 06, Room 6047\
 1340 Jefferson Park Ave\
 Charlottesville, VA 22903
