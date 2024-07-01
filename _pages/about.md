@@ -1,10 +1,9 @@
 ---
 permalink: /about/
-title: "CONTACT"
+title: "CONTACT INFO"
 ---
-
-Department of Biochemistry and Molecular Genetics, UVA\
-Pinn Hall, Floor 06 #6047\
+Yang Lab
+Pinn Hall, Floor 06, Room 6047\
 1340 Jefferson Park Ave\
 Charlottesville, VA 22903
 
