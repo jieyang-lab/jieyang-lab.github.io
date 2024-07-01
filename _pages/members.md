@@ -42,7 +42,6 @@ Twitter: [@{{ member.twitter }}](https://twitter.com/{{ member.twitter }})
 {% endfor %}
 
 
-# Former members
 
 
 {% for author in site.data.authors %}
@@ -62,7 +61,7 @@ Next: {{ member.next }}
 {% endif %}
 {% endfor %}
 
-# Joining
+# Join Us!
 
 We are actively recruiting highly motivated graduate students and postdoctoral fellows interested in using integrated structural biology (Cryo-EM/Cryo-ET), biochemistry, and cell biology approaches to dissect the molecular mechanisms of celluar stress response. 
 
