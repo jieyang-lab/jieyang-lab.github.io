@@ -1,10 +1,47 @@
 ---
-permalink: /about/
-title: "CONTACT INFO"
+title: Contact the Barad Lab
+group: About
+layout: parallax_lead
 ---
-Yang Lab\
-Pinn Hall, Floor 06, Room 6047\
-1340 Jefferson Park Ave\
-Charlottesville, VA 22903
 
-​Phone: [216-302-9192](tel:+1-216-302-9192)
+<!-- <h1 class="text-center"> Find the Barad Lab </h1>
+ -->
+<div class="row">
+	<div class="col-xl-4 col-sm-6">
+		<h2>Dr. Barad</h2>
+		<p>
+		Phone: 503-418-5852 <br>
+		Email: barad@ohsu.edu <br>
+		Office: LBRB 521 <br>
+		Mailing Address: 
+		 <br>
+
+		</p>
+	</div>
+	<div class="col-xl-4 col-sm-6">
+		<h2>The Lab</h2>
+		<p>
+		Phone: TBD <br>
+		Address:<br>
+		Department of Chemical Physiology and Biochemistry <br>
+		Oregon Health & Science University <br>
+		BRB 553C <br>
+		3181 SW Sam Jackson Park Road <br>
+		Portland, OR 97239-3098
+		</p>
+
+	</div>
+	<div class="col">
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.4910193226815!2d-122.68902282219742!3d45.500193371074495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950a46d2233d1f%3A0xbaa41b6bde9e4576!2sLamfrom%20Biomedical%20Research%20Building!5e0!3m2!1sen!2sus!4v1706037543947!5m2!1sen!2sus" width="100%" height="300px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	</div>
+</div>---
+
+#permalink: /about/
+#title: "CONTACT INFO"
+#---
+#Yang Lab\
+#Pinn Hall, Floor 06, Room 6047\
+#1340 Jefferson Park Ave\
+#Charlottesville, VA 22903
+
+#​Phone: [216-302-9192](tel:+1-216-302-9192)
