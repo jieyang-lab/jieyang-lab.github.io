@@ -15,7 +15,7 @@ title: "Research"
 {% assign alignment = "left" %}
 {% endif %}
 
-![{{interest.image_alt}}]({{interest.image}}){:style="float: {{alignment}}; object-fit: contain; width: 30%; max-height: 15em; margin-left: 1em; margin-right: 1em;"}
+![{{interest.image_alt}}]({{interest.image}}){:style="float: {{alignment}}; object-fit: contain; width: 30%; max-height: 25em; margin-left: 1em; margin-right: 1em;"}
 
 {{ interest.content }}
 {% endfor %}
