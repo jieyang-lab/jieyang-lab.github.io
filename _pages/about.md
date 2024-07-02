@@ -2,6 +2,8 @@
 permalink: /about/
 title: "CONTACT INFO"
 ---
+image: /assets/images/Cryo-em.png
+image_alt: 2D averages of representative complexes
 Yang Lab\
 Pinn Hall, Floor 06, Room 6047\
 1340 Jefferson Park Ave\
