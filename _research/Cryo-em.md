@@ -1,7 +1,7 @@
 ---
 name: Single particle Cryo-EM for macromolecular complexes
 index: 1
-image: /assets/images/Cryo-em.png
+image: <img src="/assets/images/Cryo-em.png" alt="2D averages of representative complexes" width="600" height="400">
 image_alt: 2D averages of representative complexes
 
 ---
