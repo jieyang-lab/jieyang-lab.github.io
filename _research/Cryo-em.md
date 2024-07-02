@@ -1,7 +1,7 @@
 ---
 name: Single particle Cryo-EM for macromolecular complexes
 index: 1
-image: /assets/images/Cryo-em.png style="object-fit: contain; max-height: 25em"
+image: /assets/images/Cryo-em.png
 image_alt: Opioid receptor with agonist
 ---
 
