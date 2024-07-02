@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jie-Yang @ UVA
-email: jieyang@uva.edu 
-description: PLEASE PUT YOUR DISCRIPTION HERE
-twitter_username: username
-github_username: username
+title: Yang Lab @ UVA
+email: jieyang@scripps.edu 
+description: Principle Investigator, Department of Biochemistry and Molecular Genetics
+twitter_username: _JieYang
+github_username: jieyang4080@gmail.com
 minimal_mistakes_skin: default
 search: true
 
