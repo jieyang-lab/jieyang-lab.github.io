@@ -1,5 +1,5 @@
 ---
-name: Single particle Cryo-EM for macromolecular complexes Test
+name: Single particle Cryo-EM for macromolecular complexes
 index: 1
 image: /assets/images/Cryo-em.png
 image_alt: 2D averages of representative complexes
