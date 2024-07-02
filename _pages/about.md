@@ -2,7 +2,7 @@
 permalink: /about/
 title: "CONTACT INFO"
 ---
-Shipping Address\
+Shipping Address
 
 Yang Lab\
 Pinn Hall, Floor 06, Room 6047\
