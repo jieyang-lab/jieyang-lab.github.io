@@ -10,7 +10,7 @@ Pinn Hall, Floor 06, Room 6047\
 Charlottesville, VA 22903
 
 Phone:\
-Fax:\
+Fax:
 
 Dr. Yang\
 Pinn Hall, Floor 06, Office:XXXX\
