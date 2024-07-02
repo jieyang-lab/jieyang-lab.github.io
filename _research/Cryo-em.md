@@ -10,5 +10,3 @@ We are interested in applying single particle cryo-EM to determine the high-reso
 
 <img src="/assets/images/Cryo-em.png" alt="2D averages of representative complexes" width="600" height="400">
 
-
-# <img src="(https://github.com/jieyang-lab/jieyang-lab.github.io/blob/main/assets/images/Cryo-em.png?raw=true)" alt="Test" width="600" height="400">
