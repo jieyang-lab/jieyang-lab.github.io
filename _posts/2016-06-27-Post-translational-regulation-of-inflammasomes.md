@@ -1,9 +1,9 @@
 ---
-title: Mechanism of gasdermin D recognition by inflammatory caspases and their inhibition by a gasdermin D-derived peptide inhibitor
+title: Post-translational regulation of inflammasomes
 author: yang-jie
 publication: true
-journal: Proceedings of the National Academy of Sciences
-doi: 10.1073/pnas.1800562115
+journal: Cellular & Molecular Immunology
+doi: 10.1038/cmi.2016.29
 authors:
   - Jie Yang
   - Zhonghua Liu
