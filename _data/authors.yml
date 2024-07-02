@@ -25,7 +25,8 @@ yang-jie:
   member:   true
   current:  true
   email:    jieyang@scripps.edu
-  
+
+panda-hua:
   name:     Your name here
   bio:      Postdoc/PhD/Techinican positions available
   fullbio:  "Please join us to do cutting-edge research at a top-tier institute!"
