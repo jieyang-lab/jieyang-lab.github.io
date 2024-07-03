@@ -9,7 +9,7 @@ title: "CONTACT INFO"
    1340 Jefferson Park Ave\
    Charlottesville, VA 22903\
    Phone:to be updated soon\
-   Fax:to be updated soon\
+   Fax:to be updated soon
 
 2. Dr. Yang\
    Pinn Hall, Floor 06, Office:to be updated soon\
