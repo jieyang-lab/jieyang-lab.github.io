@@ -2,7 +2,7 @@
 title: Jie is featured by the Thermo Fisher Cryo-EM webinar series
 layout: single
 author: yang-jie
-excerpt: Jie talked about the imapct of cryo-EM in gaining mechanistic insights into physiopatholigcally important protein targets.
+excerpt: Jie talked about the imapct of Cryo-EM in gaining mechanistic insights into protein targets that are important in health and disease.
 tags:
   - meta
 ---
