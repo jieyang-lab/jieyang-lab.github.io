@@ -4,7 +4,7 @@ title: "Join Us!"
 ---
 Our Lab welcomes applicants from diverse backgrounds, encompassing all races, ethnicities, religions, national origins, gender identities, family commitments, political affiliations, sexual orientations, ages, and disability statuses. Furthermore, we are committed to maintaining an inclusive, supportive, and collaborative lab environment. We strive to provide training and support to help prepare our lab members for their chosen career path. 
 
-### Currently, we have openings for the following positions:\\
+### Currently, we have openings for the following positions:  
 
 **Postdoctoral Fellows:** Postdoctoral candidates should directly email [Dr. Yang](jieyang@scripps.edu) with their CV, cover letter, and contact information for three references. We welcome applications from individuals interested in investigating fundamental aspects of significant biological processes. Ideal candidates should demonstrate self-motivation, a strong research interest, independence, good communication skills, and a collaborative mindset. Backgrounds and expertise in structural biology, molecular biology, or biochemistry are preferred.
 
