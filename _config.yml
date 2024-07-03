@@ -18,7 +18,7 @@ email: jieyang@scripps.edu
 description: Structural Mechanisms of macromolecular complexes
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: yellow
 search: true
 
 # Build settings
@@ -29,7 +29,7 @@ minimal_mistakes_skin: "yellow"
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
 
 include:
   - _pages
