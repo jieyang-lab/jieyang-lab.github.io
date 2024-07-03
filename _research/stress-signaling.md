@@ -9,4 +9,5 @@ The main questions we are asking:
 1.	How do stress sensor proteins such as IRE1, PERK, and DELE1-HRI detect distinct upstream stress under various   physiological and pathological conditions?
 2.	What are the structural mechanisms that activate these stress sensor proteins?
 3.	How do they induce downstream stress-response signaling?
+   
 Our ultimate goal is to modulate these stress response pathways in both physiological and pathological conditions, potentially leading to the development of novel therapeutics for related human diseases, including neurodegeneration, metabolic disorders, and cancer. In addition, we have established close collaborations with experts in disease-relevant mouse models to complement our mechanistic findings.
