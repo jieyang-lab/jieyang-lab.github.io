@@ -25,6 +25,7 @@ yang-jie:
   member:   true
   current:  true
   email:    jieyang@scripps.edu
+  twitter: @_Jieyang
 
 panda-hua:
   name:     Your name here
