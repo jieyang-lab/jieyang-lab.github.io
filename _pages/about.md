@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "CONTACT INFO"
+title: "Contact Info"
 ---
 
 **_Shipping Address_**  
