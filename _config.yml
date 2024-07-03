@@ -18,13 +18,13 @@ email: jieyang@scripps.edu
 description: Structural Mechanisms of macromolecular complexes
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: yellow
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "yellow"
+minimal_mistakes_skin: "mint"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
