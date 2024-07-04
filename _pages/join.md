@@ -13,7 +13,7 @@ Our Lab welcomes applicants from diverse backgrounds, encompassing all races, et
 <strong>Postdoctoral Fellows:</strong> Postdoctoral candidates should directly email <a href="mailto:jieyang@scripps.edu">Dr. Yang</a> with their CV, cover letter, and contact information for three references. We welcome applications from individuals interested in investigating fundamental aspects of significant biological processes. Ideal candidates should demonstrate self-motivation, a strong research interest, independence, good communication skills, and a collaborative mindset. Backgrounds and expertise in structural biology, molecular biology, or biochemistry are preferred.
   </p>
 <p style="text-align: justify;">
-<strong>Graduate Students:</strong> Interested graduate students should apply to one of the [graduate programs](https://med.virginia.edu/bims/programs/) in the UVA School of Medicine.
+<strong>Graduate Students:</strong> Interested graduate students should apply to one of the <a href="https://med.virginia.edu/bims/programs/">graduate programs</a> in the UVA School of Medicine.
   </p>
 <p style="text-align: justify;">
 <strong>Research Technicians:</strong> We are actively seeking a research technician/assistant to join our team and contribute to ongoing projects. Preference will be given to candidates with experience in structural biology, molecular biology, or biochemistry.
