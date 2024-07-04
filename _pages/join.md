@@ -8,17 +8,25 @@ Our Lab welcomes applicants from diverse backgrounds, encompassing all races, et
 
 ### Currently, we have openings for the following positions:  
 
+
+<p style="text-align: justify;">
 **Postdoctoral Fellows:** Postdoctoral candidates should directly email <a href="mailto:jieyang@scripps.edu">Dr. Yang</a> with their CV, cover letter, and contact information for three references. We welcome applications from individuals interested in investigating fundamental aspects of significant biological processes. Ideal candidates should demonstrate self-motivation, a strong research interest, independence, good communication skills, and a collaborative mindset. Backgrounds and expertise in structural biology, molecular biology, or biochemistry are preferred.
-
+  </p>
+<p style="text-align: justify;">
 **Graduate Students:** Interested graduate students should apply to one of the [graduate programs](https://med.virginia.edu/bims/programs/) in the UVA School of Medicine.
-
+  </p>
+<p style="text-align: justify;">
 **Research Technicians:** We are actively seeking a research technician/assistant to join our team and contribute to ongoing projects. Preference will be given to candidates with experience in structural biology, molecular biology, or biochemistry.
-
+  </p>
+<p style="text-align: justify;">
 **Rotation Students:** Prospective rotation students are encouraged to contact <a href="mailto:jieyang@scripps.edu">Dr. Yang</a> directly to discuss potential rotation projects.
-
+  </p>
+<p style="text-align: justify;">
 **Undergraduate Interns:** We welcome local UVA undergraduate students to work in the lab through internship programs for school credit or as paid undergraduate researchers.
-
+  </p>
+<p style="text-align: justify;">
 **Visiting Scholars:** We are open to host foreign visiting scholars, exchange students, interns, and sabbatical visitors from academia and industry. Typically, we expect these visitors to be compensated either by their home institution or personally.
+</p>
 
 For all inquiries and applications, please contact <a href="mailto:jieyang@scripps.edu">Dr. Yang</a> directly.
 
