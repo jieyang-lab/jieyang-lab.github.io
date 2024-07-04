@@ -17,12 +17,32 @@
 #  twitter:  ExampleHandle
 #  website:  https://example.com/
 
+# This file is used both to populate the members page on the website
+# and to create author profiles for the sidebar of each post or
+# publication. The ordering of the below entries sets the ordering of
+# the members page.
+
+# Below is the default form for people in the lab. The first 6 fields
+# (everything before "email") are mandatory.
+
+# lastname-firstname:
+#   name:     First Last
+#   bio:      Graduate student, Biophysics #lab position, appears in sidebar of every post
+#   fullbio:  "" #appears as the main text on the members page; new paragraphs require two blank lines
+#   avatar:   /assets/images/last-first.jpg #square headshot, ~500px and <300 kB
+#   member:   true
+#   current:  true
+#   email:    first.last@ucsf.edu
+#   twitter:  ExampleHandle
+#   website:  https://example.com/
+
 yang-jie:
   name: Jie Yang, PhD
   bio: Assistant Professor, Department of Biochemistry and Molecular Genetics
-  fullbio: "<p style="text-align: justify;">
-  Jie earned his B.S. degree in Life Sciences from Wuhan University, China. From 2014 to 2019, he pursued his Ph.D. in biophysics at Case Western Reserve University in Cleveland, focusing on studying the molecular mechanisms of inflammasome activation and pyroptotic cell death in innate immunity. Jie was trained as a biochemist and X-ray crystallographer by Dr. Tsan Sam Xiao during his graduate studies. In the fall of 2019, Jie moved to sunny San Diego to conduct his postdoctoral research at the Scripps Research Institute, where he studied the molecular mechanisms of mitochondrial stress response. Jie learned how to do cryo-EM from Dr. Gabriel Lander during his postdoctoral training. In August 2024, Jie established his own independent research laboratory as a tenure-track assistant professor in the Department of Biochemistry and Molecular Genetics at the UVA School of Medicine.
-  </p>"
+  fullbio: >
+    <p style="text-align: justify;">
+    Jie earned his B.S. degree in Life Sciences from Wuhan University, China. From 2014 to 2019, he pursued his Ph.D. in biophysics at Case Western Reserve University in Cleveland, focusing on studying the molecular mechanisms of inflammasome activation and pyroptotic cell death in innate immunity. Jie was trained as a biochemist and X-ray crystallographer by Dr. [Tsan Sam Xiao](https://case.edu/medicine/pathology/faculty/tsan-sam-xiao) during his graduate studies. In the fall of 2019, Jie moved to sunny San Diego to conduct his postdoctoral research at the Scripps Research Institute, where he studied the molecular mechanisms of mitochondrial stress response. Jie learned how to do cryo-EM from Dr. [Gabriel Lander](https://www.scripps.edu/faculty/lander/) during his postdoctoral training. In August 2024, Jie established his own independent research laboratory as a tenure-track assistant professor in [the Department of Biochemistry and Molecular Genetics](https://med.virginia.edu/bmg/) at the UVA School of Medicine.
+    </p>
   avatar: /assets/images/Yang_headshot.JPG
   member: true
   current: true
