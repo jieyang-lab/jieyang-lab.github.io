@@ -2,7 +2,9 @@
 permalink: /join/
 title: "Join Us!"
 ---
+<p style="text-align: justify;">
 Our Lab welcomes applicants from diverse backgrounds, encompassing all races, ethnicities, religions, national origins, gender identities, family commitments, political affiliations, sexual orientations, ages, and disability statuses. Furthermore, we are committed to maintaining an inclusive, supportive, and collaborative lab environment. We strive to provide training and support to help prepare our lab members for their chosen career path. 
+</p>
 
 ### Currently, we have openings for the following positions:  
 
