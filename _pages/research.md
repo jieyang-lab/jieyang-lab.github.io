@@ -17,5 +17,7 @@ title: "Research"
 
 ![{{interest.image_alt}}]({{interest.image}}){:style="float: {{alignment}}; object-fit: contain; width: 45%; max-height: 40em; margin-left: 1em; margin-right: 1em;"}
 
+<p style="text-align: justify;">
 {{ interest.content }}
+</p>
 {% endfor %}
