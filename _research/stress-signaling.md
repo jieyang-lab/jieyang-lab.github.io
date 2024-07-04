@@ -8,7 +8,7 @@ image_alt: diagram of signaling pathway
 We are focused on dissecting the molecular mechanisms of cellular stress response, with a particular emphasis on mitochondrial stress, endoplasmic reticulum (ER) stress, downstream unfolded protein response (UPR) and integrated stress response (ISR). Our interdisciplinary approach integrates structural biology (cryo-EM/cryo-ET), biochemistry (protein characterization), and cell biology (fluorescent imaging).
 The main questions we are addressing include:
 
-<strong><em>1.	<span style="color: orange; font-style: italic;">How do stress sensor proteins such as IRE1, PERK, and DELE1-HRI detect distinct upstream stress under different physiological and pathological conditions</span>?</em></strong>
+<strong><em>1.	<span style="color: orange; font-style: italic;">How do stress sensor proteins such as IRE1, PERK, and DELE1-HRI detect distinct upstream stress under different physiological and pathological conditions?</span></em></strong>
 <strong><em>2.	What are the structural mechanisms that activate these stress sensor proteins?</em></strong>
 <strong><em>3.	How do they induce downstream stress-response signaling?</em></strong>
    
