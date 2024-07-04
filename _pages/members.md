@@ -35,7 +35,9 @@ Twitter: [@{{ member.twitter }}](https://twitter.com/{{ member.twitter }})
 [Google Scholar]({{ member.gscholar }})
 {% endif %}
 
+<p style="text-align: justify;">
 {{ member.fullbio }}
+</p>
 
 {% endif %}
 {% endif %}
