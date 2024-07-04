@@ -25,7 +25,7 @@ Our Lab welcomes applicants from diverse backgrounds, encompassing all races, et
 <strong>Undergraduate Interns:</strong> We welcome local UVA undergraduate students to work in the lab through internship programs for school credit or as paid undergraduate researchers.
   </p>
 <p style="text-align: justify;">
-<strong>Visiting Scholars:</strong> We are open to host foreign visiting scholars, exchange students, interns, and sabbatical visitors from academia and industry. Typically, we expect these visitors to be compensated either by their home institution or personally.
+<strong>Visiting Scholars:</strong> We are open to host foreign visiting scholars, exchange students, interns, and sabbatical visitors from academia and industry. Typically, we expect these visitors to be compensated either by their home institutions or by themselves.
 </p>
 
 For all inquiries and applications, please contact <a href="mailto:jieyang@scripps.edu">Dr. Yang</a> directly.
