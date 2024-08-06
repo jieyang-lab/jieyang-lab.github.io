@@ -11,9 +11,9 @@ Charlottesville, VA 22903
 Phone: 434-243-3284  
 
 **_Dr. Yang_**  
-Pinn Hall, Floor 06, Office: to be updated soon  
+Pinn Hall, Floor 06, Office: 6047A  
 1340 Jefferson Park Ave  
 Charlottesville, VA 22903  
-Phone: 434-243-3284 (Office) 
+Office Phone: 434-243-3284  
 Email: wfw7nc@virginia.edu
 
