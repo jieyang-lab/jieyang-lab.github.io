@@ -82,7 +82,7 @@ yuan-kangning:
   member: true
   current: true
 
-  aujla-aman:
+aujla-aman:
   name: Aman-Isabelle Aujla
   bio: Undergraduate Researcher
   fullbio: >
@@ -100,4 +100,3 @@ panda-hua:
   avatar: /assets/images/panda.jpg
   member: true
   current: true
-
