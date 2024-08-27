@@ -49,7 +49,16 @@ yang-jie:
   email: wfw7nc@virginia.edu
   twitter: _JieYang
 
-panda-hua:
+Daney Yin:
+  name: Daney Yin
+  bio: Lab Manager
+  fullbio: >
+    Daney is a research specilist and assists Jie in managing the lab
+  avatar: /assets/images/Yin.jpg
+  member: true
+  current: true
+
+  panda-hua:
   name: Your name here
   bio: Postdoc/PhD/Technician positions are immediately available
   fullbio: >
