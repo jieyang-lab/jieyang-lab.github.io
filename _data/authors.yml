@@ -54,7 +54,7 @@ yin-daney:
   bio: Lab Manager
   fullbio: >
     <p style="text-align: justify;">
-    Daney is a research specialist and assists Jie in managing the lab. Daney is interested in screening and developing small-molecular compounds to target essential proteins in cellular stress response signaling pathways.
+    Daney is a research specialist and assists Jie in managing the lab. Daney is interested in screening and developing small-molecule compounds to target critical proteins involved in cellular stress response signaling pathways.
     </p>
   avatar: /assets/images/Yin.jpg
   member: true
@@ -65,7 +65,7 @@ li-kevin:
   bio: Research Technician
   fullbio: >
     <p style="text-align: justify;">
-    Kevin obtained his B.S. degree in Biochemistry from UCSD. Before joining the Yang Lab at UVA, he was an undergraduate research intern in the Lander Lab at Scripps Research. Kevin is interested in applying his expertise in molecular biology and biochemistry to study proteins involved in stress response signaling pathways.
+    Kevin obtained his B.S. degree in Biochemistry from UCSD. Before joining the Yang Lab at UVA, he was an undergraduate research intern in the Lander Lab at Scripps Research. Kevin is interested in applying his expertise in molecular biology and biochemistry to study proteins in stress response signaling pathways.
     </p>
   avatar: /assets/images/Li.jpg
   member: true
