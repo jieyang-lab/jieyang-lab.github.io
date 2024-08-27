@@ -82,6 +82,17 @@ yuan-kangning:
   member: true
   current: true
 
+  aujla-aman:
+  name: Aman-Isabelle Aujla
+  bio: Undergraduate Researcher
+  fullbio: >
+    <p style="text-align: justify;">
+    Aman-Isabella is a sophomore at UVA majoring in Human Biology. She is excited to gain lab experience and further develop her interest in biomedical research. 
+    </p>
+  avatar: /assets/images/Aujla.jpg
+  member: true
+  current: true
+
 panda-hua:
   name: Your name here
   bio: Postdoc/PhD/Technician positions are immediately available
