@@ -71,6 +71,17 @@ li-kevin:
   member: true
   current: true
 
+  yuan-kangning:
+  name: Kangning Li, M.Sc.
+  bio: Incoming PhD Student
+  fullbio: >
+    <p style="text-align: justify;">
+    Kangning obtained his master’s degree in Biology from Tsinghua University, where he was trained in protein biochemistry and structrual biology. Kangning is eager to expand his expertise by learning cryo-EM and use cryo-EM to study protein complexes. 
+    </p>
+  avatar: /assets/images/Yuan.jpg
+  member: true
+  current: true
+
 panda-hua:
   name: Your name here
   bio: Postdoc/PhD/Technician positions are immediately available
