@@ -57,7 +57,7 @@ yin-daney:
   member: true
   current: true
 
-  li-kevin:
+li-kevin:
   name: Kevin Li, B.S.
   bio: Research Technican
   fullbio: <p style="text-align: justify;">
