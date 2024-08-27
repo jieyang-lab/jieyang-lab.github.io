@@ -52,22 +52,22 @@ yang-jie:
 yin-daney:
   name: Daney Yin, M.Sc.
   bio: Lab Manager
-  fullbio: Daney is a research specilist and assists Jie in managing the lab.
+  fullbio: Daney is a research specialist and assists Jie in managing the lab.
   avatar: /assets/images/Yin.jpg
   member: true
   current: true
 
 li-kevin:
   name: Kevin Li, B.S.
-  bio: Research Technican
+  bio: Research Technician
   fullbio: >
-  <p style="text-align: justify;">
+    <p style="text-align: justify;">
     Kevin obtained his B.S. degree in Biochemistry from UCSD. Before joining the Yang Lab at UVA, he was an undergraduate research intern in the Lander Lab at Scripps Research. Kevin is interested in applying his expertise in molecular biology and biochemistry to study proteins involved in stress response signaling pathways.
     </p>
   avatar: /assets/images/Li.jpg
   member: true
   current: true
-  
+
 panda-hua:
   name: Your name here
   bio: Postdoc/PhD/Technician positions are immediately available
@@ -75,6 +75,3 @@ panda-hua:
   avatar: /assets/images/panda.jpg
   member: true
   current: true
-
-
-
