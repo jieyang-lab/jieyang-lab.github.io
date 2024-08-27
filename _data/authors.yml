@@ -52,7 +52,10 @@ yang-jie:
 yin-daney:
   name: Daney Yin, M.Sc.
   bio: Lab Manager
-  fullbio: Daney is a research specialist and assists Jie in managing the lab.
+  fullbio: >
+    <p style="text-align: justify;">
+    Daney is a research specialist and assists Jie in managing the lab. Daney is interested in screening and developing small-molecular compounds to target essential proteins in cellular stress response signaling pathways.
+    </p>
   avatar: /assets/images/Yin.jpg
   member: true
   current: true
