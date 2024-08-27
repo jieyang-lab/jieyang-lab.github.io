@@ -60,11 +60,3 @@ Daney Yin:
   member: true
   current: true
 
-  panda-hua:
-  name: Your name here
-  bio: Postdoc/PhD/Technician positions are immediately available
-  fullbio: >
-    Please join us to do cutting-edge research at a top-tier institute!
-  avatar: /assets/images/panda.jpg
-  member: true
-  current: true
