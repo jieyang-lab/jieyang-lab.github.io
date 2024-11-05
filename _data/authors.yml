@@ -71,17 +71,6 @@ li-kevin:
   member: true
   current: true
 
-yuan-kangning:
-  name: Kangning Yuan, M.Sc.
-  bio: Incoming PhD Student
-  fullbio: >
-    <p style="text-align: justify;">
-    Kangning obtained his master’s degree in Biology from Tsinghua University, where he was trained in protein biochemistry and structural biology. Kangning is eager to expand his expertise as a structural biologist by learning cryo-EM and applying it to study protein complexes in both physiological and pathological condtions.
-    </p>
-  avatar: /assets/images/Yuan.jpg
-  member: true
-  current: true
-
 aujla-aman:
   name: Aman-Isabelle Aujla
   bio: Undergraduate Researcher
