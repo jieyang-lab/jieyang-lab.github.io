@@ -82,6 +82,17 @@ aujla-aman:
   member: true
   current: true
 
+Calderon-Ernesto:
+  name: Ernesto Francisco Calderon
+  bio: Undergraduate Researcher
+  fullbio: >
+    <p style="text-align: justify;">
+    Ernesto is a second-year chemistry student at UVA with a focus on biochemistry. He is excited to engage in meaningful work while expanding his knowledge and research experience in protein biochemistry and structural biology. 
+    </p>
+  avatar: /assets/images/Ernesto.jpg
+  member: true
+  current: true
+
 Tan-Jing:
   name: Jing Tan
   bio: Incoming Research Technician
