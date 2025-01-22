@@ -93,6 +93,17 @@ Calderon-Ernesto:
   member: true
   current: true
 
+Campanelli-Giovanni:
+  name: Giovanni Campanelli
+  bio: Undergraduate Researcher
+  fullbio: >
+    <p style="text-align: justify;">
+    Giovanni is a fourth year at UVA majoring in biochemistry. He is excited to learn more about the structural mechanisms of macromolecular complexes and gain further research experience in the medical field.. 
+    </p>
+  avatar: /assets/images/Giovanni.jpg
+  member: true
+  current: true
+
 Tan-Jing:
   name: Jing Tan
   bio: Incoming Research Technician
