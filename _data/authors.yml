@@ -126,6 +126,17 @@ Yang-Rui:
   member: true
   current: true
 
+Wang-Yiluo:
+  name: Yiluo Wang
+  bio: Incoming Visiting Scholar
+  fullbio: >
+    <p style="text-align: justify;">
+    Yiluo will join as a visiting scholar to gain research experience in biochemistry and structural biology, with his next career goal being to apply to graduate schools. 
+    </p>
+  avatar: /assets/images/Yiluo.jpg
+  member: true
+  current: true
+
 panda-hua:
   name: Your name here
   bio: Postdoc/PhD/Technician positions are immediately available
