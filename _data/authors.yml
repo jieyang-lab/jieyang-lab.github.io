@@ -112,8 +112,8 @@ Tan-Jing:
     Jing earned her Master’s degree from the Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, where she gained expertise in structural biology, cell biology, and molecular biology. She joins the Yang Lab as a research technician and plans to transition into a PhD program in the near future. Jing is passionate about studying the molecular mechanisms and signaling pathways involved in stress response signaling. 
     </p>
   avatar: /assets/images/Tan.jpg
-  member: true
-  current: true
+  member: false
+  current: false
 
 Yang-Rui:
   name: Rui Yang
