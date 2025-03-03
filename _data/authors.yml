@@ -98,12 +98,23 @@ Campanelli-Giovanni:
   bio: Undergraduate Researcher
   fullbio: >
     <p style="text-align: justify;">
-    Giovanni is a fourth year at UVA majoring in biochemistry. He is excited to learn more about the structural mechanisms of macromolecular complexes and gain further research experience in the medical field.. 
+    Giovanni is a fourth year at UVA majoring in biochemistry. He is excited to learn more about the structural mechanisms of macromolecular complexes and gain further research experience in the medical field. 
     </p>
   avatar: /assets/images/Giovanni.jpg
   member: true
   current: true
 
+Sanav Durgam:
+  name: Sanav Durgam
+  bio: Undergraduate Researcher
+  fullbio: >
+    <p style="text-align: justify;">
+    Sanav is a first-year at UVA majoring in Chemistry. Driven by his interest in structural biology and biochemistry, he is excited to gain research experience in the field of biomedicine. 
+    </p>
+  avatar: /assets/images/Sanav.jpg
+  member: true
+  current: true
+  
 Yang-Rui:
   name: Rui Yang
   bio: Incoming Postdoctoral Researcher
