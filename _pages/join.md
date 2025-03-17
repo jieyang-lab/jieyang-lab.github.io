@@ -1,6 +1,6 @@
 ---
 permalink: /join/
-title: "Join Us"
+title: "Join Us!"
 ---
 
 **Currently, we have openings for the following positions:**  
