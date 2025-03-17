@@ -2,7 +2,7 @@
 permalink: /join/
 title: "Join Us!"
 
-### Currently, we have openings for the following positions:  
+Currently, we have openings for the following positions:  
 
 
 <p style="text-align: justify;">
