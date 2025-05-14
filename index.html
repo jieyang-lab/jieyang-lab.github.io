@@ -7,10 +7,30 @@ author: yang-jie
 author_profile: true
 ---
 
+<div class="slideshow-container" style="max-width: 700px; margin: 0 auto;">
 
-<center>
-<img alt="Landscape" src="/assets/images/home-page.png" style="object-fit: contain; max-height: 25em">
-</center>
+  <img class="slideshow" src="/assets/images/slide1.jpg" style="width:100%; display:block;">
+  <img class="slideshow" src="/assets/images/slide2.jpg" style="width:100%; display:none;">
+  <img class="slideshow" src="/assets/images/slide3.jpg" style="width:100%; display:none;">
+
+</div>
+
+<script>
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let slides = document.getElementsByClassName("slideshow");
+  for (let i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) { slideIndex = 1 }
+  slides[slideIndex - 1].style.display = "block";
+  setTimeout(showSlides, 3000); // Change image every 3 seconds
+}
+</script>
+
 
 <p style="text-align: justify;">
 Our laboratory is dedicated to elucidating the mechanisms by which proteins execute their biological functions at the molecular level. To achieve this, we employ an array of interdisciplinary methodologies to examine the properties of protein molecules both in vitro and within cellular contexts. Central to our approach is the utilization of cryo-electron microscopy (cryo-EM) to determine the high-resolution structures of protein complexes, thereby revealing their conformational landscapes and interactive details. Complementarily, we use biochemical and cellular assays to substantiate the functional relevance of our cryo-EM structures, providing structure-guided mechanistic insights into the proteins under study. Currently, our primary focus lies in the structural and functional characterization of proteins integral to cellular stress sensing and response. Another branch of our research endeavors is to translate the mechanistic insights obtained into the realm of drug development. Our objective is to develop therapeutic agents, including chemical compounds, peptide inhibitors, and antibodies, aimed at modulating the function of proteins involved in stress-response signaling pathways. This research holds profound implications for the treatment of a myriad of human diseases, including neurodegeneration, cancer, and cardiovascular disorders.
