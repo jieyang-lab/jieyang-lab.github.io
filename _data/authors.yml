@@ -134,7 +134,9 @@ panda-hua:
   member: true
   current: true
 
-Yang-Lab-Alumni:
-  name: Aman-Isabelle Aujla, Undergraduate Researcher
-  member: true
-  current: true
+# --- Alumni Section ---
+yang-lab-alumni:
+  - name: Aman-Isabelle Aujla, Undergraduate Researcher
+    member: true
+    current: false
+
