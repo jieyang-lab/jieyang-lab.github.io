@@ -54,19 +54,20 @@ Twitter: [@{{ member.twitter }}](https://twitter.com/{{ member.twitter }})
   {% if member.member and member.current == false %}
 
 <div style="margin-bottom: 2em;">
+
   {% if member.avatar %}
   <img src="{{ member.avatar }}" alt="Photograph of {{ member.name }}" style="float: left; object-fit: contain; width: 30%; max-height: 10em; margin-left: 1em; margin-right: 1em;" />
   {% endif %}
 
-  ### {{ member.name }}
+  <h3>{{ member.name }}</h3>
 
   {% if member.bio %}
-  **{{ member.bio }}**
+  <strong>{{ member.bio }}</strong>
     {% if member.start %} ({{ member.start }}{% if member.end %}&ndash;{{ member.end }}{% endif %}){% endif %}
   {% endif %}
 
   {% if member.next %}
-  <br>Next: {{ member.next }}
+  <p>Next: {{ member.next }}</p>
   {% endif %}
 
   <div style="clear: both;"></div>
