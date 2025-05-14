@@ -1,40 +1,6 @@
-# This file is used both to populated the members page on the website
-# and to create author profiles for the sidebar of each post or
-# publication. The ordering of the below entries sets the ordering of
-# the members page.
-
-# Below is the default form for people in the lab. The first 6 fields
-# (everything before "email") are mandatory.
-
-#lastname-firstname:
-#  name:     First Last
-#  bio:      Graduate student, Biophysics #lab position, appears in sidebar of every post
-#  fullbio:  "" #appears as the main text on the members page; new paragraphs require two blank lines
-#  avatar:   /assets/images/last-first.jpg #square headshot, ~500px and <300 kB
-#  member:   true
-#  current:  true
-#  email:    first.last@ucsf.edu
-#  twitter:  ExampleHandle
-#  website:  https://example.com/
-
 # This file is used both to populate the members page on the website
-# and to create author profiles for the sidebar of each post or
-# publication. The ordering of the below entries sets the ordering of
-# the members page.
-
-# Below is the default form for people in the lab. The first 6 fields
-# (everything before "email") are mandatory.
-
-# lastname-firstname:
-#   name:     First Last
-#   bio:      Graduate student, Biophysics #lab position, appears in sidebar of every post
-#   fullbio:  "" #appears as the main text on the members page; new paragraphs require two blank lines
-#   avatar:   /assets/images/last-first.jpg #square headshot, ~500px and <300 kB
-#   member:   true
-#   current:  true
-#   email:    first.last@ucsf.edu
-#   twitter:  ExampleHandle
-#   website:  https://example.com/
+# and to create author profiles for the sidebar of each post or publication.
+# The ordering of the below entries sets the ordering of the members page.
 
 yang-jie:
   name: Jie Yang, PhD
@@ -103,7 +69,7 @@ Sanav Durgam:
   avatar: /assets/images/Sanav.jpg
   member: true
   current: true
-  
+
 Yang-Rui:
   name: Rui Yang
   bio: Incoming Postdoctoral Researcher
@@ -134,9 +100,16 @@ panda-hua:
   member: true
   current: true
 
-# --- Alumni Section ---
-yang-lab-alumni:
-  - name: Aman-Isabelle Aujla, Undergraduate Researcher
-    member: true
-    current: false
-
+aujla-aman-isabelle:
+  name: Aman-Isabelle Aujla
+  bio: Undergraduate Researcher
+  fullbio: >
+    <p style="text-align: justify;">
+    Aman was an undergraduate researcher in the Yang Lab, where she contributed to projects on mitochondrial stress signaling. She is now preparing to apply to graduate programs in biomedical sciences.
+    </p>
+  avatar: /assets/images/aujla.jpg
+  member: true
+  current: false
+  start: 2024
+  end: 2025
+  next: Transferred to human biology program
