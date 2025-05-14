@@ -53,25 +53,18 @@ Twitter: [@{{ member.twitter }}](https://twitter.com/{{ member.twitter }})
   {% assign member = author[1] %}
   {% if member.member and member.current == false %}
 
-<div style="margin-bottom: 2em;">
+### {{ member.name }}
 
-  {% if member.avatar %}
-  <img src="{{ member.avatar }}" alt="Photograph of {{ member.name }}" style="float: left; object-fit: contain; width: 30%; max-height: 10em; margin-left: 1em; margin-right: 1em;" />
-  {% endif %}
+{% if member.bio %}
+**{{ member.bio }}**
+  {% if member.start %} ({{ member.start }}{% if member.end %}&ndash;{{ member.end }}{% endif %}){% endif %}
+{% endif %}
 
-  <h3>{{ member.name }}</h3>
+{% if member.next %}
+Next: {{ member.next }}
+{% endif %}
 
-  {% if member.bio %}
-  <strong>{{ member.bio }}</strong>
-    {% if member.start %} ({{ member.start }}{% if member.end %}&ndash;{{ member.end }}{% endif %}){% endif %}
-  {% endif %}
-
-  {% if member.next %}
-  <p>Next: {{ member.next }}</p>
-  {% endif %}
-
-  <div style="clear: both;"></div>
-</div>
+<br><br>
 
   {% endif %}
 {% endfor %}
