@@ -4,15 +4,15 @@ permalink: /members/
 layout: single
 ---
 
-<!-- Current Members -->
+<!-- === Current Members === -->
 {% for author in site.data.authors %}
-{% assign member = author[1] %}
-{% if member.member and member.current %}
+  {% assign member = author[1] %}
+  {% if member.member and member.current %}
 
 ## {{ member.name }}
 
 {% if member.avatar %}
-![Photograph of {{member.name}}]({{ member.avatar }}){:style="float: left; object-fit: contain; width: 40%; max-height: 12em; margin-left: 1em; margin-right: 1em;"}
+![Photograph of {{ member.name }}]({{ member.avatar }}){:style="float: left; object-fit: contain; width: 40%; max-height: 12em; margin-left: 1em; margin-right: 1em;"}
 {% endif %}
 
 {% if member.bio %}
@@ -39,11 +39,11 @@ Twitter: [@{{ member.twitter }}](https://twitter.com/{{ member.twitter }})
 {{ member.fullbio }}
 </p>
 
-{% endif %}
+<div style="clear: both;"></div>
+  {% endif %}
 {% endfor %}
 
 ---
-
 
 ## Yang Lab Alumni
 
@@ -74,4 +74,3 @@ Twitter: [@{{ member.twitter }}](https://twitter.com/{{ member.twitter }})
 
   {% endif %}
 {% endfor %}
-
