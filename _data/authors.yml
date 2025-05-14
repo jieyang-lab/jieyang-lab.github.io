@@ -71,17 +71,6 @@ li-kevin:
   member: true
   current: true
 
-aujla-aman:
-  name: Aman-Isabelle Aujla
-  bio: Undergraduate Researcher
-  fullbio: >
-    <p style="text-align: justify;">
-    Aman-Isabella is a sophomore at UVA majoring in Human Biology. She is excited to gain lab experience and further develop her interest in biomedical research. 
-    </p>
-  avatar: /assets/images/Aujla.jpg
-  member: true
-  current: true
-
 Calderon-Ernesto:
   name: Ernesto Francisco Calderon
   bio: Undergraduate Researcher
@@ -142,5 +131,10 @@ panda-hua:
   bio: Postdoc/PhD/Technician positions are immediately available
   fullbio: Please join us to do cutting-edge research at a top-tier institute!
   avatar: /assets/images/panda.jpg
+  member: true
+  current: true
+
+Yang-Lab-Alumni:
+  name: Aman-Isabelle Aujla, Undergraduate Researcher
   member: true
   current: true
