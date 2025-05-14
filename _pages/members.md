@@ -44,21 +44,34 @@ Twitter: [@{{ member.twitter }}](https://twitter.com/{{ member.twitter }})
 
 ---
 
+
 ## Yang Lab Alumni
 
+<div style="clear: both;"></div>
+
 {% for author in site.data.authors %}
-{% assign member = author[1] %}
-{% if member.member and member.current == false %}
+  {% assign member = author[1] %}
+  {% if member.member and member.current == false %}
 
-### {{ member.name }}
+<div style="margin-bottom: 2em;">
+  {% if member.avatar %}
+  <img src="{{ member.avatar }}" alt="Photograph of {{ member.name }}" style="float: left; object-fit: contain; width: 30%; max-height: 10em; margin-left: 1em; margin-right: 1em;" />
+  {% endif %}
 
-{% if member.bio %}
-**{{ member.bio }}** {% if member.start %}({{ member.start }}{% if member.end %}&ndash;{{ member.end }}{% endif %}){% endif %}
-{% endif %}
+  ### {{ member.name }}
 
-{% if member.next %}
-Next: {{ member.next }}
-{% endif %}
+  {% if member.bio %}
+  **{{ member.bio }}**
+    {% if member.start %} ({{ member.start }}{% if member.end %}&ndash;{{ member.end }}{% endif %}){% endif %}
+  {% endif %}
 
-{% endif %}
+  {% if member.next %}
+  <br>Next: {{ member.next }}
+  {% endif %}
+
+  <div style="clear: both;"></div>
+</div>
+
+  {% endif %}
 {% endfor %}
+
