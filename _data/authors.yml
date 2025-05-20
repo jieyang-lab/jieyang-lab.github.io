@@ -3,7 +3,7 @@
 # The ordering of the below entries sets the ordering of the members page.
 
 yang-jie:
-  name: Jie Yang, PhD
+  name: Jie Yang, Ph.D.
   bio: Assistant Professor, Department of Biochemistry and Molecular Genetics, School of Medicine
   fullbio: >
     <p style="text-align: justify;">
@@ -71,7 +71,7 @@ Sanav Durgam:
   current: true
 
 Yang-Rui:
-  name: Rui Yang
+  name: Rui Yang, Ph.D.
   bio: Incoming Postdoctoral Researcher
   fullbio: >
     <p style="text-align: justify;">
