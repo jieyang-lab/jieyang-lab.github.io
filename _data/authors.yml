@@ -100,6 +100,14 @@ panda-hua:
   member: true
   current: true
 
+panda-hua:
+  name: Yiluo Wang
+  bio: Visiting Scholar
+  fullbio: Yiluo is a visiting scholar in the Yang Lab and plans to apply to Ph.D. programs in the Fall 2026 cycle after gaining additional research experience.
+  avatar: /assets/images/yiluo.jpg
+  member: true
+  current: true
+
 aujla-aman-isabelle:
   name: Aman-Isabelle Aujla
   bio: Undergraduate Researcher
