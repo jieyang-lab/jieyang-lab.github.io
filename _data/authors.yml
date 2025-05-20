@@ -92,19 +92,19 @@ Agnieszka-Prażmowska:
   member: true
   current: true
 
+Yiluo-Wang:
+  name: Yiluo Wang
+  bio: Visiting Scholar
+  fullbio: Yiluo is a visiting scholar in the Yang Lab and plans to apply to Ph.D. programs in the Fall 2026 cycle after gaining additional research experience.
+  avatar: /assets/images/yiluo.jpg
+  member: true
+  current: true
+
 panda-hua:
   name: Your name here
   bio: Postdoc/PhD/Technician positions are immediately available
   fullbio: Please join us to do cutting-edge research at a top-tier institute!
   avatar: /assets/images/panda.jpg
-  member: true
-  current: true
-
-panda-hua:
-  name: Yiluo Wang
-  bio: Visiting Scholar
-  fullbio: Yiluo is a visiting scholar in the Yang Lab and plans to apply to Ph.D. programs in the Fall 2026 cycle after gaining additional research experience.
-  avatar: /assets/images/yiluo.jpg
   member: true
   current: true
 
