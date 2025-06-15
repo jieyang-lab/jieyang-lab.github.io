@@ -26,17 +26,6 @@ yin-daney:
   member: true
   current: true
 
-li-kevin:
-  name: Kevin Li, B.S.
-  bio: Research Technician
-  fullbio: >
-    <p style="text-align: justify;">
-    Kevin obtained his B.S. degree in Biochemistry from UCSD. Before joining the Yang Lab at UVA, he was an undergraduate research intern in the Lander Lab at Scripps Research. Kevin is interested in applying his expertise in molecular biology and biochemistry to study proteins in stress response signaling pathways.
-    </p>
-  avatar: /assets/images/Li.jpg
-  member: true
-  current: true
-
 Calderon-Ernesto:
   name: Ernesto Francisco Calderon
   bio: Undergraduate Researcher
@@ -121,3 +110,17 @@ aujla-aman-isabelle:
   start: 2024
   end: 2025
   next: Transferred to human biology program
+
+  li-kevin:
+  name: Kevin Li, B.S.
+  bio: Research Technician
+  fullbio: >
+    <p style="text-align: justify;">
+    Kevin obtained his B.S. degree in Biochemistry from UCSD. Before joining the Yang Lab at UVA, he was an undergraduate research intern in the Lander Lab at Scripps Research. Kevin is interested in applying his expertise in molecular biology and biochemistry to study proteins in stress response signaling pathways.
+    </p>
+  avatar: /assets/images/Li.jpg
+  member: true
+  current: false
+  start: 2024
+  end: 2025
+  next: Northwestern University Biotech Entrepreneurship Graduate Program
