@@ -97,20 +97,6 @@ panda-hua:
   member: true
   current: true
 
-aujla-aman-isabelle:
-  name: Aman-Isabelle Aujla
-  bio: Undergraduate Researcher
-  fullbio: >
-    <p style="text-align: justify;">
-    Aman was an undergraduate researcher in the Yang Lab, where she contributed to projects on mitochondrial stress signaling. She is now preparing to apply to graduate programs in biomedical sciences.
-    </p>
-  avatar: /assets/images/aujla.jpg
-  member: true
-  current: false
-  start: 2024
-  end: 2025
-  next: Transferred to human biology program
-
 li-kevin:
   name: Kevin Li, B.S.
   bio: Research Technician
@@ -124,4 +110,3 @@ li-kevin:
   start: 2024
   end: 2025
   next: Northwestern University Biotech Entrepreneurship Graduate Program
-
