@@ -7,6 +7,6 @@ tags:
   - meta
 ---
 
-We are thrilled to announce that the Yang Lab has received the 2025–2026 ACS Institutional Research Grant (ACS-IRG) to support our pilot project focused on targeting mitochondrial stress signaling pathways in cancer. 
+We are thrilled to receive the 2025–2026 American Cancer Society Institutional Research Grant (ACS-IRG) to support our pilot project focused on targeting mitochondrial stress signaling pathways in cancer. 
 
 We thank the UVA Cancer Center and the ACS for supporting our research!
