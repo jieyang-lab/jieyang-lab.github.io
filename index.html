@@ -77,7 +77,8 @@ startSlideshow();
 .slideshow-container img.slideshow {
   width: 100%;
   height: 100%;
-  object-fit: cover; /* crops to fit */
+  object-fit: cover;        /* scale and crop */
+  object-position: top;     /* keep the top, crop bottom */
   display: block;
 }
 </style>
