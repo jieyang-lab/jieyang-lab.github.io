@@ -48,17 +48,6 @@ Calderon-Ernesto:
   member: true
   current: true
 
-Campanelli-Giovanni:
-  name: Giovanni Campanelli
-  bio: Undergraduate Researcher
-  fullbio: >
-    <p style="text-align: justify;">
-    Giovanni is a fourth year at UVA majoring in biochemistry. He is excited to learn more about the structural mechanisms of macromolecular complexes and gain further research experience in the medical field. 
-    </p>
-  avatar: /assets/images/Giovanni.jpg
-  member: true
-  current: true
-
 Sanav Durgam:
   name: Sanav Durgam
   bio: Undergraduate Researcher
@@ -78,17 +67,6 @@ Yang-Rui:
     Rui completed his PhD training in protein biochemistry and X-ray crystallography at Florida State University. He joins the Yang Lab to expand his structural biology expertise by learning cryo-EM and applying it to study macromolecular complexes.
     </p>
   avatar: /assets/images/Rui.jpg
-  member: true
-  current: true
-
-Agnieszka-Prażmowska:
-  name: Agnieszka Anita Prażmowska, B.S.
-  bio: Visiting Research Graduate Student
-  fullbio: >
-    <p style="text-align: justify;">
-    My name is Agnieszka, and I am a research graduate student in the BioLab Program at the University of Virginia. Currently, I am in the second year of my Master's degree in Marine Biotechnology and my great passion lies in the molecular biology of cancer. In the Yang Lab, I aim to expand my laboratory experience through exploring the mitochondrial stress response signaling in cancer. I believe that this journey will help shape my future research career.
-    </p>
-  avatar: /assets/images/Aga.jpg
   member: true
   current: true
 
