@@ -2,7 +2,7 @@
 title: Human SerRS/SIRT2 complex structure reveals cross regulation between translation and NAD+ metabolism
 author: yang-jie
 publication: true
-journal: BioRxiv
+journal: bioRxiv
 doi: 10.1101/2025.09.23.677902
 authors:
   - Qian Zhang
