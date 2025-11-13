@@ -91,10 +91,16 @@ Tian, Y., & Yin, Q. (2022). Reconstituting and Purifying Assembly Intermediates 
 Yiluo-Wang:
   name: Yiluo Wang, M.Sc.
   bio: Visiting Scholar
-  fullbio: Yiluo is a visiting scholar in the Yang Lab and plans to apply to Ph.D. programs in the Fall 2026 cycle after gaining additional research experience.
+  fullbio: >
+    Yiluo is a visiting scholar in the Yang Lab and plans to apply to Ph.D. programs in the Fall 2026 cycle after gaining additional research experience.
   avatar: /assets/images/Yiluo.jpg
   member: true
   current: true
+
+  publications:
+    - "<strong>Yiluo Wang</strong>, Wenci Gong, Hao Zhou, Yuan Hu, Lan Wang, Yujuan Shen, Guoying Yu, Jianping Cao. A Novel miRNA from Egg-Derived Exosomes of Schistosoma japonicum Promotes Liver Fibrosis in Murine Schistosomiasis. <strong>Front. Immunol.</strong> 27 April 2022;13. doi:10.3389/fimmu.2022.860807."
+
+    - "Chen Y, Hu Y, Zhou H, Jiang N, <strong>Wang Y</strong>, Zhang J, Shen Y, Yu G, Cao J. Induction of hepatic fibrosis in mice with schistosomiasis by extracellular microRNA-30 derived from Schistosoma japonicum eggs. <strong>Front Immunol.</strong> 2024 Jul 30;15:1425384. doi:10.3389/fimmu.2024.1425384."
 
 panda-hua:
   name: Your name here
