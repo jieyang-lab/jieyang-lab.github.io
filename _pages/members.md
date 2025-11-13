@@ -39,6 +39,16 @@ Twitter: [@{{ member.twitter }}](https://twitter.com/{{ member.twitter }})
 {{ member.fullbio }}
 </p>
 
+<!-- === Representative Publications === -->
+{% if member.publications %}
+### Representative Publications
+<ul>
+  {% for paper in member.publications %}
+    <li>{{ paper | markdownify }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
 <div style="clear: both;"></div>
   {% endif %}
 {% endfor %}
