@@ -27,9 +27,11 @@ Zheng-Kaiyuan:
   current: true
 
   publications:
-    - "<strong>Zheng K</strong>, Ngo PD, Owens VL, Yang X-p, Mansoorabadi SO. The biosynthetic pathway of coenzyme F<sub>430</sub> in methanogenic and methanotrophic archaea. <strong><em>Science</em><strong>. 2016;354:339–342." 
-    - "<strong>Zheng K</strong>, Rush K, Date S, Johs A, Parks J, Fleischhacker A, Abernathy M, Ritimukta S, Ragsdale SW. S-adenosyl-L-methionine is the unexpected methyl donor for the methylation of mercury by the membrane-associated HgcAB complex. <strong><em>PNAS</em><strong>. 2024;121(47)."
-    - "Cooper C, <strong>Zheng K</strong>, Rush K, Johs A, Sanders B, Pavlopoulos G, Kyrpides N, Podar M, Ovchinnikov S, Ragsdale SW, Parks J. Structure determination of the HgcAB complex using metagenome sequence data: insights into microbial mercury methylation. <strong><em>Communications Biology</em><strong>. 2020;3:320."
+    - "<strong>Zheng K</strong>, Ngo PD, Owens VL, Yang X-p, Mansoorabadi SO. The biosynthetic pathway of coenzyme F<sub>430</sub> in methanogenic and methanotrophic archaea. <strong>Science</strong>. 2016;354:339–342."
+    
+    - "<strong>Zheng K</strong>, Rush K, Date S, Johs A, Parks J, Fleischhacker A, Abernathy M, Ritimukta S, Ragsdale SW. S-adenosyl-L-methionine is the unexpected methyl donor for the methylation of mercury by the membrane-associated HgcAB complex. <strong>PNAS</strong>. 2024;121(47)."
+    
+    - "Cooper C, <strong>Zheng K</strong>, Rush K, Johs A, Sanders B, Pavlopoulos G, Kyrpides N, Podar M, Ovchinnikov S, Ragsdale SW, Parks J. Structure determination of the HgcAB complex using metagenome sequence data: insights into microbial mercury methylation. <strong>Communications Biology</strong>. 2020;3:320."
 
 yin-daney:
   name: Daney Yin, M.Sc.
@@ -74,6 +76,17 @@ Yang-Rui:
   avatar: /assets/images/Rui.jpg
   member: true
   current: true
+
+  publications:
+    - "Wang, B.#, <strong>Yang, R.</strong>#, Wan, C.#, Tian, Y.#, Wu, J., Adewole, T. S., Roy, S., Li, S., Shen, J., & Yin, Q. (2025). Structural basis of pseudoGTPase-mediated protein-protein interactions. <strong>Structure</strong>. <strong>co-first author</strong>. Advance online publication. https://doi.org/10.1016/j.str.2025.07.009"
+
+    - "Tian, Y.#, Datta, I.#, <strong>Yang, R.</strong>#,
+Wan, C., Wang, B., Crisman, L., He, H., Brautigam, C. A., Li, S., Shen, J., & Yin, Q. (2023). Oligomer-to-monomer transition underlies the chaperone function of AAGAB in AP1/AP2 assembly. <strong>PNAS</strong>, 120(2), e2205199120. <strong>co-first author</strong>. https://doi.org/10.1073/pnas.2205199120"
+
+    - "Wang, B.#, <strong>Yang, R.</strong>#,
+Tian, Y., & Yin, Q. (2022). Reconstituting and Purifying Assembly Intermediates of Clathrin Adaptors AP1 and AP2. <strong>Methods in Molecular Biology</strong>, 2473, 195–212. <strong>co-first author</strong>. https://doi.org/10.1007/978-1-0716-2209-4_15"
+
+    - "Yang, J., Liu, Z., Wang, C., <strong>Yang, R.</strong>, Rathkey, J. K., Pinkard, O. W., Shi, W., Chen, Y., Dubyak, G. R., Abbott, D. W., & Xiao, T. S. (2018). Mechanism of gasdermin D recognition by inflammatory caspases and their inhibition by a gasdermin D-derived peptide inhibitor. <strong>PNAS</strong>, 115(26), 6792–6797."
 
 Yiluo-Wang:
   name: Yiluo Wang, M.Sc.
