@@ -33,6 +33,17 @@ Zheng-Kaiyuan:
     
     - "Cooper C, <strong>Zheng K.</strong>, Rush K, Johs A, Sanders B, Pavlopoulos G, Kyrpides N, Podar M, Ovchinnikov S, Ragsdale SW, Parks J. Structure determination of the HgcAB complex using metagenome sequence data: insights into microbial mercury methylation. <strong>Communications Biology</strong>. 2020;3:320."
 
+Zhang-hong:
+  name: Hong Zhang, Ph.D.
+  bio: Research Scientist
+  fullbio: >
+    <p style="text-align: justify;">
+    Hong completed his PhD training in Microbiology at the Shanghai Institutes for Biological Sciences, where he studied mechanisms of genome editing and protein post-translational modifications. He then conducted postdoctoral research at the University of Maryland, focusing on protein biosynthesis using yeast systems. Hong joins the Yang Lab to expand his expertise in mitochondrial stress response biology, with a particular interest in learning and using cryo-EM structural biology approaches to elucidate the molecular mechanisms governing the assembly and activation of key cellular macromolecular complexes.
+    </p>
+  avatar: /assets/images/Zhang.jpg
+  member: true
+  current: true
+
 yin-daney:
   name: Daney Yin, M.Sc.
   bio: Lab Manager
