@@ -33,16 +33,25 @@ Zheng-Kaiyuan:
     
     - "Cooper C, <strong>Zheng K.</strong>, Rush K, Johs A, Sanders B, Pavlopoulos G, Kyrpides N, Podar M, Ovchinnikov S, Ragsdale SW, Parks J. Structure determination of the HgcAB complex using metagenome sequence data: insights into microbial mercury methylation. <strong>Communications Biology</strong>. 2020;3:320."
 
-Zhang-hong:
+Hong-Zhang:
   name: Hong Zhang, Ph.D.
   bio: Research Scientist
   fullbio: >
-    <p style="text-align: justify;">
-    Hong completed his PhD training in Microbiology at the Shanghai Institutes for Biological Sciences, where he studied mechanisms of genome editing and protein post-translational modifications. He then conducted postdoctoral research at the University of Maryland, focusing on protein biosynthesis using yeast systems. Hong joins the Yang Lab to expand his expertise in mitochondrial stress response biology, with a particular interest in learning and using cryo-EM structural biology approaches to elucidate the molecular mechanisms governing the assembly and activation of key cellular macromolecular complexes.
-    </p>
-  avatar: /assets/images/Zhang.jpg
+    Hong completed his PhD training in Microbiology at the Shanghai Institutes for Biological Sciences,
+    where he studied mechanisms of genome editing and protein post-translational modifications.
+    He then conducted postdoctoral research at the University of Maryland, focusing on protein
+    biosynthesis using yeast systems. Hong joins the Yang Lab to expand his expertise in mitochondrial
+    stress response biology, with a particular interest in learning and using cryo-EM structural
+    biology approaches to elucidate the molecular mechanisms governing the assembly and activation
+    of key cellular macromolecular complexes.
+  avatar: /assets/images/Hong_Zhang.jpg
   member: true
   current: true
+  publications:
+    - "<strong>Zhang H.</strong>, Ling J. Serine mistranslation induces the integrated stress response through the P stalk. <strong>Journal of Biological Chemistry</strong>. 2025;108447."
+    - "<strong>Zhang H.</strong>, Murphy P, Yu J, Lee S, Tsai FTF, van Hoof A, Ling J. Coordination between aminoacylation and editing to protect against proteotoxicity. <strong>Nucleic Acids Research</strong>. 2023;51(19):10606–10618."
+    - "<strong>Zhang H.</strong>, Wu J, Lyu Z, Ling J. Impact of alanyl-tRNA synthetase editing deficiency in yeast. <strong>Nucleic Acids Research</strong>. 2021;49(17):9953–9964."
+    - "<strong>Zhang H.</strong>, Lyu Z, Fan Y, Evans CR, Barber KW, Banerjee K, Igoshin OA, Rinehart J, Ling J. Metabolic stress promotes stop-codon readthrough and phenotypic heterogeneity. <strong>Proceedings of the National Academy of Sciences of the United States of America</strong>. 2020;117(36):22167–22172."
 
 yin-daney:
   name: Daney Yin, M.Sc.
