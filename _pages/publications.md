@@ -12,11 +12,14 @@ layout: single
 {% for article in posts %}
   {% if article.publication %}
 
-    {% if article.date and article.date >= "2024-09-01" %}
-      {% unless uva_header_printed %}
+    {% if article.date %}
+      {% assign article_date = article.date | date: "%Y-%m-%d" %}
+      {% if article_date >= "2024-09-01" %}
+        {% unless uva_header_printed %}
 ## @ UVA
-        {% assign uva_header_printed = true %}
-      {% endunless %}
+          {% assign uva_header_printed = true %}
+        {% endunless %}
+      {% endif %}
     {% endif %}
 
 ### {{ article.title }}
