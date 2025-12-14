@@ -4,7 +4,7 @@ title: "Publications"
 layout: single
 ---
 
-## @ UVA
+## @ UVa
 
 {% for article in site.posts %}
 {% if article.publication and article.date %}
@@ -23,7 +23,7 @@ Published in {% if article.doi %}[*{{ article.journal }}*](https://doi.org/{{ ar
 {% endif %}
 {% endfor %}
 
-## Before UVA
+## Before UVa
 
 {% for article in site.posts %}
 {% if article.publication and article.date %}
