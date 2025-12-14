@@ -6,6 +6,8 @@ title: "Publications"
 ## Before UVA
 
 {% assign posts = site.posts %}
+{% assign uva_header_printed = false %}
+
 {% for article in posts %}
 {% if article.publication %}
 
