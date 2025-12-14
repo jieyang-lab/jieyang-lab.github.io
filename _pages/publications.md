@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
+layout: single
 ---
 
 ## Before UVA
@@ -9,14 +10,14 @@ title: "Publications"
 {% assign uva_header_printed = false %}
 
 {% for article in posts %}
-{% if article.publication %}
+  {% if article.publication %}
 
-{% if article.date >= "2024-09-01" %}
-{% unless uva_header_printed %}
+    {% if article.date and article.date >= "2024-09-01" %}
+      {% unless uva_header_printed %}
 ## @ UVA
-{% assign uva_header_printed = true %}
-{% endunless %}
-{% endif %}
+        {% assign uva_header_printed = true %}
+      {% endunless %}
+    {% endif %}
 
 ### {{ article.title }}
 
@@ -34,9 +35,10 @@ Published in {% if article.doi %}
 {% endif %}.
 
 <hr>
-{% endif %}
+
+  {% endif %}
 {% endfor %}
 
-# All articles and reviews
+## All articles and reviews
 
 [Google Scholar](https://scholar.google.com/citations?user=BldDEr0AAAAJ&hl=en)
