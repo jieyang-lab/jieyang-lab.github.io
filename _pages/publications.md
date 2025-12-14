@@ -13,21 +13,9 @@ layout: single
 
 ### {{ article.title }}
 
-{% assign length = article.authors | size %}
-{% assign i = 2 %}
-{% capture author_line %}
-{% for author in article.authors %}
-{{ author }}{% if i < length %}, {% elsif i == length %}{% if length > 2 %},{% endif %} and {% endif %}
-{% assign i = i | plus: 1 %}
-{% endfor %}
-{% endcapture %}
-{{ author_line | strip }}
+{% assign length = article.authors | size %}{% assign i = 2 %}{% for author in article.authors %}{{ author }}{% if i < length %}, {% elsif i == length %}{% if length > 2 %},{% endif %} and {% endif %}{% assign i = i | plus: 1 %}{% endfor %}
 
-Published in {% if article.doi %}
-[*{{ article.journal }}*](https://doi.org/{{ article.doi }})
-{% else %}
-*{{ article.journal }}*
-{% endif %}.
+Published in {% if article.doi %}[*{{ article.journal }}*](https://doi.org/{{ article.doi }}){% else %}*{{ article.journal }}*{% endif %}.
 
 <hr>
 
@@ -44,21 +32,9 @@ Published in {% if article.doi %}
 
 ### {{ article.title }}
 
-{% assign length = article.authors | size %}
-{% assign i = 2 %}
-{% capture author_line %}
-{% for author in article.authors %}
-{{ author }}{% if i < length %}, {% elsif i == length %}{% if length > 2 %},{% endif %} and {% endif %}
-{% assign i = i | plus: 1 %}
-{% endfor %}
-{% endcapture %}
-{{ author_line | strip }}
+{% assign length = article.authors | size %}{% assign i = 2 %}{% for author in article.authors %}{{ author }}{% if i < length %}, {% elsif i == length %}{% if length > 2 %},{% endif %} and {% endif %}{% assign i = i | plus: 1 %}{% endfor %}
 
-Published in {% if article.doi %}
-[*{{ article.journal }}*](https://doi.org/{{ article.doi }})
-{% else %}
-*{{ article.journal }}*
-{% endif %}.
+Published in {% if article.doi %}[*{{ article.journal }}*](https://doi.org/{{ article.doi }}){% else %}*{{ article.journal }}*{% endif %}.
 
 <hr>
 
