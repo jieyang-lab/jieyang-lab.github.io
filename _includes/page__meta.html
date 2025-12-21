@@ -1,0 +1,21 @@
+{% if page.title %}
+  <h1 class="page__title" itemprop="headline">{{ page.title }}</h1>
+{% endif %}
+
+{% if page.authors %}
+  <p class="page__meta-authors">
+    {{ page.authors | join: ", " | replace_last: ",", ", and" }}
+  </p>
+{% endif %}
+
+{% if page.author_note %}
+  <p class="page__meta-authors-note">
+    {{ page.author_note | markdownify }}
+  </p>
+{% endif %}
+
+{% if page.journal %}
+  <p class="page__meta">
+    Published in <em>{{ page.journal }}</em>.
+  </p>
+{% endif %}
