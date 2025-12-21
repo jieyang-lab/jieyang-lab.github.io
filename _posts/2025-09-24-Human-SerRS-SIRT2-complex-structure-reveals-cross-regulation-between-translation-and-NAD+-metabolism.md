@@ -10,8 +10,8 @@ authors:
   - Marscha Hirschi
   - Sheng Li
   - Gabriel C. Lander
-  - Jie Yang*
-  - Xiang-Lei Yang*
+  - Jie Yang&nbsp;&ast;
+  - Xiang-Lei Yang&nbsp;&ast;
 author_note: |
   **\* Co-corresponding authors.**
   **In revision with _Nature Communications_.**
@@ -19,11 +19,5 @@ abstract: "Life at the cellular level depends on effective coordination between 
 pdbs:
   - FIXME
 ---
-
-We recently published ["{{ page.title }}"](https://doi.org/{{ page.doi }}) in *{{ page.journal }}*.
-
-{% if page.author_note %}
-{{ page.author_note | markdownify }}
-{% endif %}
 
 {{ page.abstract }}
