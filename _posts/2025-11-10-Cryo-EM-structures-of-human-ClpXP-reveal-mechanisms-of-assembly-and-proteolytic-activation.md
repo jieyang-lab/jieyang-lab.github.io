@@ -13,7 +13,7 @@ authors:
 
 {{ page.authors | join: ", " }}
 
-**\* co-corresponding author，in press at *Nature Communications***
+**\* co-corresponding author**, in press at ***Nature Communications***
 
 We recently published this work in *Nature Communications* (in press).
 
