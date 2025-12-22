@@ -12,8 +12,8 @@ authors:
   - Marscha Hirschi
   - Sheng Li
   - Gabriel C. Lander
-  - "Jie Yang*"
-  - "Xiang-Lei Yang*"
+  - Jie Yang\*
+  - Xiang-Lei Yang\*
 ---
 
 We recently published this work on bioRxiv.
