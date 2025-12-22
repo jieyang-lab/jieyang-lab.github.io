@@ -5,26 +5,21 @@ publication: true
 journal: bioRxiv
 doi: 10.1101/2025.09.23.677902
 layout: single
+
 authors:
   - Qian Zhang
   - Huimin Zhang
   - Marscha Hirschi
   - Sheng Li
   - Gabriel C. Lander
-  - "**Jie Yang***"
-  - "**Xiang-Lei Yang***"
-author_note: |
-  * Co-corresponding authors.
-  In revision with **Nature Communications**.
-abstract: |
-  Life at the cellular level depends on effective coordination between diverse processes. Here we uncover a novel cross-regulation between metabolism and translation through a 3.2 Å cryo-EM structure of human cytosolic seryl-tRNA synthetase (SerRS) bound to sirtuin-2 (SIRT2), an NAD+-dependent deacetylase. This interaction, naturally triggered by the NAD+ metabolite ADP-ribose (ADPR), resembles substrate binding and blocks SIRT2's active site. Interestingly, SerRS acetylation is not required for this interaction. SIRT2 binding sterically and allosterically impedes tRNA binding to SerRS, lowering charged tRNASer level and protein synthesis activity. Key interaction residues in both proteins emerged simultaneously in vertebrates, suggesting co-evolution for cross-regulation. Given ADPR’s accumulation under stress, the ADPR-induced SerRS/SIRT2 interaction likely serves as a cell-protective response.
-pdbs:
-  - FIXME
----
-We recently published ["{{ page.title }}"](https://doi.org/{{ page.doi }}) in *{{ page.journal }}*.
+  - Jie Yang\*
+  - Xiang-Lei Yang\*
 
-{% if page.author_note %}
-{{ page.author_note | markdownify }}
-{% endif %}
+author_note: "* **Co-corresponding authors.** In revision with **Nature Communications**."
+
+abstract: "Life at the cellular level depends on effective coordination between diverse processes. Here we uncover a novel cross-regulation between metabolism and translation through a 3.2 Å cryo-EM structure of human cytosolic seryl-tRNA synthetase (SerRS) bound to sirtuin-2 (SIRT2), an NAD+-dependent deacetylase. This interaction, naturally triggered by the NAD+ metabolite ADP-ribose (ADPR), resembles substrate binding and blocks SIRT2's active site. Interestingly, SerRS acetylation is not required for this interaction. SIRT2 binding sterically and allosterically impedes tRNA binding to SerRS, lowering charged tRNASer level and protein synthesis activity. Key interaction residues in both proteins emerged simultaneously in vertebrates, suggesting co-evolution for cross-regulation. Given ADPR's accumulation under stress, the ADPR-induced SerRS/SIRT2 interaction likely serves as a cell-protective response."
+---
+
+We recently published ["{{ page.title }}"](https://doi.org/{{ page.doi }}) in *{{ page.journal }}*.
 
 {{ page.abstract }}
