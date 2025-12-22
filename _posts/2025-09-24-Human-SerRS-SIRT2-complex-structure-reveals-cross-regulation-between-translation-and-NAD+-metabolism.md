@@ -18,7 +18,7 @@ authors:
 
 {{ page.authors | join: ", " }}
 
-**\* co-corresponding author**, in revision with ***Nature Communications***
+**\* co-corresponding author**
 
 We recently published this work on [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2025.09.23.677902v1).
 
