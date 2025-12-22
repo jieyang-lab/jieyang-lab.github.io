@@ -14,10 +14,11 @@ authors:
   - Gabriel C. Lander
   - Jie Yang\*
   - Xiang-Lei Yang\*
-  - \* **co-coresponding author**
-  - In revision with *Nature Commun*
 ---
 
-We recently published this work on bioRxiv.
+We recently published this work on *bioRxiv*.
+
+**\* co-corresponding author**  
+*In revision with **Nature Commun***
 
 {{ page.abstract }}
