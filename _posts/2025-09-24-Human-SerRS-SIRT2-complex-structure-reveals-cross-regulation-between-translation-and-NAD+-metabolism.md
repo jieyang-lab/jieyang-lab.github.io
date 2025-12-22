@@ -16,9 +16,6 @@ authors:
   - Xiang-Lei Yang\*
 ---
 
-We recently published this work on *bioRxiv*.
-
-**\* co-corresponding author**  
-*In revision with **Nature Commun***
+We recently published this work on *bioRxiv*. **\* co-corresponding author**, *In revision with **Nature Commun***
 
 {{ page.abstract }}
