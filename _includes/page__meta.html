@@ -1,5 +1,7 @@
 {% if page.title %}
-  <h1 class="page__title" itemprop="headline">{{ page.title }}</h1>
+  <h1 class="page__title" itemprop="headline">
+    {{ page.title }}
+  </h1>
 {% endif %}
 
 {% if page.authors %}
@@ -9,7 +11,7 @@
 {% endif %}
 
 {% if page.author_note %}
-  <p class="page__meta-authors-note">
+  <p class="page__meta-author-note">
     {{ page.author_note | markdownify }}
   </p>
 {% endif %}
