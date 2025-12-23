@@ -3,7 +3,7 @@ title: De novo design of protein binders that target DELE1 to inhibit the mitoch
 author: yang-jie
 publication: true
 journal: bioRxiv
-doi: 10.64898/2025.12.22.695711
+doi: https://www.biorxiv.org/content/10.64898/2025.12.22.695711v1
 layout: single
 
 authors:
