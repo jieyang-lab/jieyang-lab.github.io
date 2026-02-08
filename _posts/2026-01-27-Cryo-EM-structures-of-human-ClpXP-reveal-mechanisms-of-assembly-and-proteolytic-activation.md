@@ -8,8 +8,8 @@ layout: single
 
 authors:
   - Wenqian Chen
-  - "Gabriel C. Lander*"
-  - "Jie Yang*"
+  - "Gabriel C. Lander\*"
+  - "Jie Yang\*"
 ---
 {{ page.authors | join: ", " }}
 
