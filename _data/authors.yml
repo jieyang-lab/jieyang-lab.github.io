@@ -133,6 +133,16 @@ Luo-Xiaoyi:
   member: true
   current: true
 
+Xie-Sophia:
+  name: Sophia Xie
+  bio: Undergraduate Researcher
+  fullbio: >
+    <p style="text-align: justify;">
+    Sophia is a third-year Chemistry major at UVA on the pre-med track. She is interested in studying the molecular mechanisms of cellular stress response pathways and gaining hands-on research experience in understanding their relevance to therapeutic development.    </p>
+  avatar: /assets/images/xie.jpg
+  member: true
+  current: true
+
 panda-hua:
   name: Your name here
   bio: Postdoc/PhD/Technician positions are immediately available
