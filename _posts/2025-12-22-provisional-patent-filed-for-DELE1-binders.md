@@ -1,6 +1,8 @@
 ---
-title: "Provisional Patent Filed for De Novo–Designed DELE1 Binders"
+title: "Provisional patent filed for de novo designed DELE1 binders"
 layout: single
 author: yang-jie
-excerpt: "A provisional patent application has been filed through UVA Licensing & Ventures Group for the Yang Lab’s engineered DELE1 binders targeting the mitochondrial stress response."
+excerpt: "The Yang Lab has filed a provisional patent application through UVA Licensing and Ventures Group for engineered DELE1 binders that target the mitochondrial stress response."
 ---
+
+The Yang Lab has filed a provisional patent application through UVA Licensing and Ventures Group for engineered DELE1 binders that target the mitochondrial stress response.
