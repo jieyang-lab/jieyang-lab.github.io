@@ -62,64 +62,6 @@ yin-daney:
   avatar: /assets/images/Yin.jpg
   member: true
   current: true
-
-Calderon-Ernesto:
-  name: Ernesto Francisco Calderon
-  bio: Undergraduate Researcher
-  fullbio: >
-    <p style="text-align: justify;">
-    Ernesto is a second-year chemistry student at UVA with a focus on biochemistry. He is excited to engage in meaningful work while expanding his knowledge and research experience in protein biochemistry and structural biology. 
-    </p>
-  avatar: /assets/images/Ernesto.jpg
-  member: true
-  current: true
-
-Sanav Durgam:
-  name: Sanav Durgam
-  bio: Undergraduate Researcher
-  fullbio: >
-    <p style="text-align: justify;">
-    Sanav is a first-year at UVA majoring in Chemistry. Driven by his interest in structural biology and biochemistry, he is excited to gain research experience in the field of biomedicine. 
-    </p>
-  avatar: /assets/images/Sanav.jpg
-  member: true
-  current: true
-
-Yang-Rui:
-  name: Rui Yang, Ph.D.
-  bio: Postdoctoral Researcher
-  fullbio: >
-    <p style="text-align: justify;">
-    Rui completed his PhD training in protein biochemistry and X-ray crystallography at Florida State University. He joins the Yang Lab to expand his structural biology expertise by learning cryo-EM and applying it to study macromolecular complexes.
-    </p>
-  avatar: /assets/images/Rui.jpg
-  member: true
-  current: true
-
-  publications:
-    - "Wang, B.#, <strong>Yang, R.</strong>#, Wan, C.#, Tian, Y.#, Wu, J., Adewole, T. S., Roy, S., Li, S., Shen, J., & Yin, Q. (2025). Structural basis of pseudoGTPase-mediated protein-protein interactions. <strong>Structure</strong>. #<strong>co-first author</strong>. Advance online publication. https://doi.org/10.1016/j.str.2025.07.009"
-
-    - "Tian, Y.#, Datta, I.#, <strong>Yang, R.</strong>#,
-Wan, C., Wang, B., Crisman, L., He, H., Brautigam, C. A., Li, S., Shen, J., & Yin, Q. (2023). Oligomer-to-monomer transition underlies the chaperone function of AAGAB in AP1/AP2 assembly. <strong>PNAS</strong>, 120(2), e2205199120. #<strong>co-first author</strong>. https://doi.org/10.1073/pnas.2205199120"
-
-    - "Wang, B.#, <strong>Yang, R.</strong>#,
-Tian, Y., & Yin, Q. (2022). Reconstituting and Purifying Assembly Intermediates of Clathrin Adaptors AP1 and AP2. <strong>Methods in Molecular Biology</strong>, 2473, 195–212. #<strong>co-first author</strong>. https://doi.org/10.1007/978-1-0716-2209-4_15"
-
-    - "Yang, J., Liu, Z., Wang, C., <strong>Yang, R.</strong>, Rathkey, J. K., Pinkard, O. W., Shi, W., Chen, Y., Dubyak, G. R., Abbott, D. W., & Xiao, T. S. (2018). Mechanism of gasdermin D recognition by inflammatory caspases and their inhibition by a gasdermin D-derived peptide inhibitor. <strong>PNAS</strong>, 115(26), 6792–6797."
-
-Yiluo-Wang:
-  name: Yiluo Wang, M.Sc.
-  bio: Visiting Scholar
-  fullbio: >
-    Yiluo is a visiting scholar in the Yang Lab and plans to apply to Ph.D. programs in the Fall 2026 cycle after gaining additional research experience.
-  avatar: /assets/images/Yiluo.jpg
-  member: true
-  current: true
-
-  publications:
-    - "<strong>Wang Y.</strong>, Wenci Gong, Hao Zhou, Yuan Hu, Lan Wang, Yujuan Shen, Guoying Yu, Jianping Cao. A Novel miRNA from Egg-Derived Exosomes of Schistosoma japonicum Promotes Liver Fibrosis in Murine Schistosomiasis. <strong>Front. Immunol.</strong> 27 April 2022;13. doi:10.3389/fimmu.2022.860807."
-
-    - "Chen Y, Hu Y, Zhou H, Jiang N, <strong>Wang Y.</strong>, Zhang J, Shen Y, Yu G, Cao J. Induction of hepatic fibrosis in mice with schistosomiasis by extracellular microRNA-30 derived from Schistosoma japonicum eggs. <strong>Front Immunol.</strong> 2024 Jul 30;15:1425384. doi:10.3389/fimmu.2024.1425384."
     
 Luo-Xiaoyi:
   name: Xiaoyi Luo
