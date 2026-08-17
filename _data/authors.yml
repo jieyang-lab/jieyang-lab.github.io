@@ -85,11 +85,11 @@ Xie-Sophia:
   current: true
 
 Lill-Zach:
-  name: Zach Lill
+  name: Zach Lill, Ph.D.
   bio: Postdoctoral Researcher
   fullbio: >
     <p style="text-align: justify;">
-    Zach received his Ph.D. from Texas A&M University, where he worked with Dr. Junjie Zhang studying the structural and molecular biology of ssRNA bacteriophages. His research combines microbiology, protein biochemistry, and cryo-EM to understand the molecular mechanisms of protein complexes. In the Yang Lab, Zach is interested in applying structural and biochemical approaches to understand DELE1-medaited mitochondrial stress response pathways.   </p>
+    Zach received his Ph.D. from Texas A&M University, where he worked with Dr. Junjie Zhang studying the structural and molecular biology of ssRNA bacteriophages. In the Yang Lab, Zach is interested in applying structural and biochemical approaches to understand DELE1-medaited mitochondrial stress response pathways.   </p>
   avatar: /assets/images/Lill.jpg
   member: true
   current: true
