@@ -14,7 +14,7 @@ tags:
 
 We are excited to share that the Yang Lab has received its first NIH R01 award from the National Heart, Lung, and Blood Institute (NHLBI)!
 
-The five-year, approximately $3.79 million award will support our project, **“Defining and Targeting DELE1-Mediated Mitochondrial Stress Response in Cardiomyopathy.”**
+The five-year, approximately $3.8 million award will support our project, **“Defining and Targeting DELE1-Mediated Mitochondrial Stress Response in Cardiomyopathy.”**
 
 Mitochondrial dysfunction is a major contributor to cardiovascular and heart disease, but how cells sense mitochondrial damage and translate it into adaptive or maladaptive stress responses remains incompletely understood. Our research will investigate the molecular mechanisms by which the mitochondrial stress sensor **DELE1** activates cellular stress signaling in the heart and determine how this pathway contributes to cardiomyopathy.
 
