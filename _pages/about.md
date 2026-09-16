@@ -20,7 +20,7 @@ layout: single
     Lab Phone: 434-924-2565<br><br>
 
     <em>Dr. Yang</em><br>
-    Pinn Hall, Floor 06, Office: 6047A<br>
+    Pinn Hall, Floor 06, Office: 6069<br>
     1340 Jefferson Park Ave<br>
     Charlottesville, VA 22903<br>
     Office Phone: 434-243-3284<br>
