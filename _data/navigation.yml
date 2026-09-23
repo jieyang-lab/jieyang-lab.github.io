@@ -11,3 +11,5 @@ main:
     url: /about/
   - title: "Join"
     url: /join/
+  - title: "Give"
+    url: /give/
