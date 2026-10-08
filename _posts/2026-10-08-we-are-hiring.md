@@ -6,7 +6,7 @@ author_profile: true
 sticky: true
 ---
 
-The **Yang Lab at the University of Virginia School of Medicine is actively recruiting talented and motivated scientists at multiple career stages**, including **Assistant Professor of Research (non-tenure-track faculty), Research Scientist, Postdoctoral Fellow, PhD Student, and other research positions**.
+The Yang Lab at the University of Virginia School of Medicine is actively recruiting talented and motivated scientists at multiple career stages, including **Assistant Professor of Research (non-tenure-track faculty), Research Scientist, Postdoctoral Fellow, PhD Student**, and other research positions.
 
 We welcome scientists who are intellectually curious, highly motivated, and excited to pursue innovative research in a collaborative and supportive environment.
 
@@ -57,5 +57,4 @@ Opportunities depend on research interests, relevant experience, available fundi
 For positions with official listings, candidates who are selected for further consideration will be directed to complete the formal application process.
 
 **Due to the large volume of inquiries, we may not be able to respond individually to every applicant. Only candidates selected for further consideration will be contacted. If you do not receive a response, please consider that your application has not been selected for further consideration.**
-
 We look forward to hearing from scientists who are excited to tackle challenging biological questions and contribute to our growing research program.
