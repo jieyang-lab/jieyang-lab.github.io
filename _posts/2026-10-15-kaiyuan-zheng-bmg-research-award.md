@@ -1,22 +1,18 @@
 ---
-title: "Congratulations to Kaiyuan Zheng on Receiving the BMG Postdoctoral Research Award!"
+title: "Kaiyuan Zheng Receives the 2026 BMG Postdoctoral Research Award!"
 date: 2026-10-15
 layout: single
 author_profile: true
 header:
-  teaser: "/assets/image/Zheng_award.jpg"
+  teaser: "/assets/images/Zheng_award.jpg"
 ---
 
-We are delighted to announce that **Dr. Kaiyuan Zheng**, a Research Scientist in the Yang Lab, has received the **Excellence in Post-Doctoral Research Award** from the Department of Biochemistry and Molecular Genetics (BMG) at the University of Virginia School of Medicine!
+Congratulations to **Dr. Kaiyuan Zheng** on receiving the **2026 Excellence in Post-Doctoral Research Award** from the Department of Biochemistry and Molecular Genetics (BMG) at the University of Virginia School of Medicine!
 
-The award was announced today, **October 15, 2026**, during the **BMG Annual Retreat**. Kaiyuan was selected as **one of only two recipients of this year's award**, recognizing his outstanding research contributions to the department.
+The award was announced on October 15, 2026, during the BMG Annual Retreat, where Kaiyuan was recognized as one of two recipients this year.
 
-![Kaiyuan Zheng receiving the BMG Postdoctoral Research Award](/assets/image/Zheng_award.jpg)
+![Kaiyuan Zheng with his BMG Research Award](/assets/images/Zheng_award.jpg)
 
-*Dr. Kaiyuan Zheng celebrates receiving the 2026 BMG Excellence in Post-Doctoral Research Award.*
+Kaiyuan has made outstanding contributions to our research on mitochondrial stress signaling, structural biology, and protein design, while also playing an important role in mentoring and training other members of the Yang Lab.
 
-Since joining the Yang Lab, Kaiyuan has made important contributions to our research on the molecular mechanisms of cellular stress signaling. His work has advanced our understanding of mitochondrial stress responses through structural biology, biochemistry, and innovative approaches to investigating protein interactions and signaling mechanisms.
-
-**We are incredibly proud of Kaiyuan's achievements and grateful for his dedication, creativity, and contributions to our research program.**
-
-Congratulations, Kaiyuan, on this well-deserved recognition!
+Congratulations, Kaiyuan! This recognition is well deserved!
