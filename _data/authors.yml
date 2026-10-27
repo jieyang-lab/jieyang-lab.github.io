@@ -112,7 +112,7 @@ Rodig-Courtney:
   fullbio: >
     <p style="text-align: justify;">
     Courtney is a fourth-year studying Chemistry and Computer Science at UVA, and she is interested in applying machine learning and computational analysis to biological data. She has previous experience with computational analysis of protein expression in liposarcoma tissue samples, as well as machine learning for single-cell RNA sequencing. She is excited to contribute to the lab’s de novo protein design efforts by helping develop a computational pipeline to generate protein binders.  </p>
-  avatar: /assets/images/Rodig.jpg
+  avatar: /assets/images/Rodig.png
   member: true
   current: true
 
